@@ -1,0 +1,33 @@
+{
+  "name": "react-simple-tab",
+  "version": "1.0.0",
+  "description": "a simple plain understandable react-tab component",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangdejun/react-simple-tab.git"
+  },
+  "keywords": [
+    "react",
+    "react-tab",
+    "simple",
+    "easy",
+    "understandable"
+  ],
+  "author": "wangdejun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangdejun/react-simple-tab/issues"
+  },
+  "homepage": "https://github.com/wangdejun/react-simple-tab#readme",
+  "devDependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
